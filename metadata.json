@@ -1,0 +1,6 @@
+{
+  "name": "FloppiaUltimate",
+  "description": "Sunucu listesi, sesli ve metin sohbet kanalları, direkt mesajlaşma ve profil özellikleri sunan Discord istemcisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
